@@ -1,0 +1,3 @@
+Hi, this ia a repo of my homework of Software School, Harbin Institute of Technology. 
+
+As I'm always busy (nowdays with GRE and TOEFL, and later it will be SNS research), the codes of my homework may be very ugly...
